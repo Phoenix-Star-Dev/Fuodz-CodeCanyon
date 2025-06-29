@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "258546891887",
+    "project_id": "jadapp-70b0f",
+    "storage_bucket": "jadapp-70b0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258546891887:android:5ba21efea643341c48e19a",
+        "android_client_info": {
+          "package_name": "online.jad.fuodz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyZF5lel4kiIO9Q6WW8MBOVpRZiaOlYBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258546891887:android:ff8642f304f4f23148e19a",
+        "android_client_info": {
+          "package_name": "online.jad.fuodzdeliveryboy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyZF5lel4kiIO9Q6WW8MBOVpRZiaOlYBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258546891887:android:582ecb566c92dad248e19a",
+        "android_client_info": {
+          "package_name": "online.jad.fuodzvendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyZF5lel4kiIO9Q6WW8MBOVpRZiaOlYBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
